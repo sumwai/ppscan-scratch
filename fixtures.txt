@@ -1,0 +1,13 @@
+sk_live_Ab3Cd5Ef7Gh9
+pk_live_Ab3Cd5Ef7Gh9
+rk_live_Ab3Cd5Ef7Gh9
+sk_test_000000000000
+xoxb-123456789012-abcdefghijkl
+xoxp-987654321098-zyxwvutsrqpo
+ghp_abcdefghijklmnopqrstuvwxyz0123456789
+AKIAZZQ7ZPLMN2VKRTYW
+AIzaSyA1234567890abcdefghijklmnopqrstuv
+-----BEGIN RSA PRIVATE KEY-----
+api_key=abcdefghijklmnop
+password=few-words-strung-together
+STRIPE_SECRET_KEY="sk_live_Ab3Cd5Ef7Gh9"
